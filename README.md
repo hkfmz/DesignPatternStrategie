@@ -1,1 +1,1 @@
-"# DesignPatternStrategie" 
+"Design Pattern Strategie"
